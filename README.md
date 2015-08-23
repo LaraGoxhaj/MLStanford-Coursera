@@ -6,3 +6,4 @@ Completed exercises for Machine Learning course
 + Week 3: Classification (binary and multiclass), logistic regression, regularization
 + Week 4: Neural networks - representation, multiclass classification
 + Week 5: Neural networks - backpropagation
++ Week 6: Application and System Design
