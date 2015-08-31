@@ -7,3 +7,4 @@ Completed exercises for Machine Learning course
 + Week 4: Neural networks - representation, multiclass classification
 + Week 5: Neural networks - backpropagation
 + Week 6: Application and System Design
++ Week 7: Support Vector Machines
