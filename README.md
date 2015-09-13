@@ -9,3 +9,4 @@ Completed exercises for Machine Learning course
 + Week 6: Application and System Design
 + Week 7: Support Vector Machines
 + Week 8: K-Means clustering (unsupervised learning); Dimensionality Reduction (PCA)
++ Week 9: Anomaly Detection and Recommender Systems
