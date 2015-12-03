@@ -22,7 +22,6 @@ sigma = zeros(1, size(X, 2));
 %               feature and each row is an example. You need 
 %               to perform the normalization separately for 
 %               each feature. 
-%
 
 mu = repmat(mean(X), [size(X,1),1]);
 sigma = repmat(std(X), [size(X,1),1]);
